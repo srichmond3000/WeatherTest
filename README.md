@@ -1,6 +1,6 @@
 # Weather Test
 
-4Com technical test for prospective C# developers.
+4Com code test for prospective .NET developers.
 
 ### Prerequisites
 
